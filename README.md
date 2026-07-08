@@ -3,7 +3,7 @@
 Beginer developer
 
 ### My projects:
-* ⚙️ [TuringMachine](https://github.com/RarityFan437/TuringMachine) — интерпретатор / симулятор машины Тьюринга на Python.
+* ⚙️ [TuringMachine](https://github.com/RarityFan437/TuringMachine) — Python Turing Machine Simulator.
 
-### Контакты:
-* ✉️ [Мой Telegram](https://t.me/mmkkari)
+### Contacts:
+* ✉️ [my Telegram](https://t.me/mmkkari)
